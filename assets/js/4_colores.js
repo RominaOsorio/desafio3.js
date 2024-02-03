@@ -51,9 +51,9 @@ document.addEventListener('keydown', function (event) {
 document.addEventListener('keydown', function (event) {
     if (event.key === 'q') {
         pintar(keyDos, 'purple')
-    } else if (event.key === 's') {
+    } else if (event.key === 'w') {
         pintar(keyDos, 'grey')
-    } else if (event.key === 'd') {
+    } else if (event.key === 'e') {
         pintar(keyDos, 'brown')
     }
 });
